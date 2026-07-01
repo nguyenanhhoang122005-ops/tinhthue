@@ -9,7 +9,7 @@ st.set_page_config(page_title="Hệ Thống Tính Thuế & Chi Phí Nhân Sự 2
 st.image("logo.jpg")
 
 # --- THÔNG TIN THÀNH VIÊN VÀ ĐỀ TÀI ---
-st.markdown("### 📝 **Đề tài 5_Nguyễn Anh Hoàng_Lê Gia Hào_Nguyễn Quang Hậu_Nguyễn Trần Trọng_Nguyễn Huy Hoàng_Vũ Thị Nhã Trúc_Thu Trang**")
+st.markdown("### 📝 **Đề tài 5_Nguyễn Anh Hoàng_Lê Gia Hào_Nguyễn Quang Hậu_Nguyễn Trần Trọng_Nguyễn Huy Hoàng_Vũ Thị Nhã Trúc_Bùi Thị Thu Trang**")
 st.title("📊 Hệ Thống Quản Lý Tài Chính & Thu Thập Thuế 2026")
 st.write("Giải pháp tích hợp tính Thuế TNCN (Dành cho Người lao động) và Chi phí nhân sự (Dành cho Doanh nghiệp)")
 st.markdown("---")
